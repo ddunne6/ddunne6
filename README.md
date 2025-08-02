@@ -1,7 +1,6 @@
 - 👋 Hi, I’m David Dunne
 - 👀 I’m interested in distributed systems, machine translation evaluation and geospatial data.
 - 🌱 I’m currently working at Stripe in the EMEA Wallets department
-- 💞️ I’m looking to collaborate on Django related projects
 - 📫 You can find out more on my personal website, [www.dunnedev.ie](https://www.dunnedev.ie/)
 
 <!---
